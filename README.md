@@ -4,6 +4,8 @@ Live bubble detection for a **static camera**: counts bubbles, measures each dia
 sphere volume, and writes everything to **Excel** while it runs. Built for a Raspberry Pi
 (Tkinter GUI, no heavy dependencies), also runs on Windows/Linux/macOS.
 
+https://github.com/user-attachments/assets/a804dbaa-74fa-430c-b55f-5c43cfcb483d
+
 ## Install on the Raspberry Pi
 Raspberry Pi OS Bookworm, 64-bit, Pi 4 or (better) Pi 5:
 
